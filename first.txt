@@ -3,3 +3,5 @@ hello myfirstdemo
 changes in first.txt
 
 changes in first.txt from online editor
+
+changes in first.txt smartgit
